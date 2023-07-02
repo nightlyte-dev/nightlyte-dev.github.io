@@ -9,21 +9,21 @@
 }
 
 @font-face {
-  font-family: Lato;
+  font-family: FiraCode;
   font-weight: 400;
-  src: url("/fonts/Lato-Regular.ttf");
+  src: url("/fonts/FiraCodeNerdFont-Regular.ttf");
 }
 
 @font-face {
-  font-family: Lato;
+  font-family: FiraCode;
   font-weight: 700;
-  src: url("/fonts/Lato-Bold.ttf");
+  src: url("/fonts/FiraCodeNerdFont-SemiBold.ttf");
 }
 
 html {
   background-color: rgb(var(--light-primary-color));
   color: var(--light-text-color);
-  font-family: "Lato", sans-serif;
+  font-family: "FiraCode", sans-serif;
   font-size: 17.5px;
   min-height: 100%;
   position: relative;
