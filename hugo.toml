@@ -1,6 +1,5 @@
-baseURL = "https://example.com"
+baseURL = "https://nightlyte.io"
 title = "Nightlyte 🌙"
-theme = "gokarna"
 languageCode = "en"
 defaultContentLanguage = "en"
 enableEmoji = true
@@ -39,7 +38,7 @@ pygmentsStyle = "monokai"
     {name = "twitter", url = "https://example.com"},
     {name = "email", url = "mailto:nightlyte.io@gmail.com"}
   ]
-  metaKeywords = ["blog", "gokarna", "hugo"]
+  metaKeywords = ["nightlyte", "dotfiles", "github"]
 
 [menu]
   [[menu.main]]
@@ -64,5 +63,5 @@ pygmentsStyle = "monokai"
 [markup]
   [markup.tableOfContents]
     startLevel = 1
-    endLevel = 4
+    endLevel = 3
     ordered = false
